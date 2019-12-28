@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Switching_to_tabs_in_WebDriverIO" timestamp="2019-12-28T15:32:34" time="6.513" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Switching to tabs in WebDriverIO"/>
+      <property name="capabilities" value="firefox.71_0.linux"/>
+      <property name="file" value="./test/specs/Switching_To_Tabs.test.js"/>
+    </properties>
+    <testcase classname="firefox.71_0.linux.Switching_to_tabs_in_WebDriverIO" name="should_Switch_tabs_using_switchWindow_Command" time="6.508"/>
+  </testsuite>
+</testsuites>
